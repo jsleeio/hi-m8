@@ -26,6 +26,8 @@ There actually is a bit more, but not much.
 ```
 $ ./hi-m8 --help
 Usage of ./hi-m8:
+  -delay duration
+    	sleep this duration before responding
   -listen string
     	[address]:port to bind to (default ":3000")
   -message string
